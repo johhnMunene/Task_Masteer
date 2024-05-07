@@ -1,0 +1,13 @@
+head {
+    margin: 0;
+    font-weight: bold; /* Use font-weight instead of font-color */
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+table {
+	text-align:center;
+}
+
